@@ -1,0 +1,327 @@
+{
+  "summary": {
+    "total_files": 17,
+    "intact_files": 17,
+    "corrupted_files": 0,
+    "inaccessible_files": 0,
+    "excel_files": 2,
+    "enhanced_excel_analysis": true,
+    "scan_date": "2025-10-17T08:58:08.572226"
+  },
+  "details": [
+    {
+      "file_path": "../normalizar_tabela_custeio/ddl_movimentacao_financeiro.sql",
+      "file_name": "ddl_movimentacao_financeiro.sql",
+      "file_size": 1007,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-01-13T12:48:33.943776",
+      "error": null,
+      "md5_hash": "5a24d4bf475861b5c1a38d0e61b6fa2a",
+      "sha256_hash": "be7a506fe1d86483038e14e97625868b6dcc3b863f1b419f836d43964e2ff9cd",
+      "specific_checks": {
+        "format_valid": true,
+        "statements_count": 4,
+        "lines_count": 38
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/Pedidos Faturados - Fev_2025.pdf",
+      "file_name": "Pedidos Faturados - Fev_2025.pdf",
+      "file_size": 138476,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-04-07T10:34:18.860214",
+      "error": null,
+      "md5_hash": "63836ad3663a9c17a02ea5c88344f23b",
+      "sha256_hash": "8737de1ff250742d13b6fa9de18d34b01ae50a974dfd493f2ce5980aa96cf379",
+      "specific_checks": {
+        "format_valid": true,
+        "pages_count": 0,
+        "pdf_version": "%PDF-1.5",
+        "has_eof": true
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/METAS_FILIAIS(ATUALIZA.csv",
+      "file_name": "METAS_FILIAIS(ATUALIZA.csv",
+      "file_size": 3178,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-05-06T08:44:09.429423",
+      "error": null,
+      "md5_hash": "1169ad9a7b7afd1e5c214476462810da",
+      "sha256_hash": "04fffa12ad87fa01a0efea551aeda00cb7a5022f644b826767f5c67ebdfa7d83",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 52,
+        "columns_count": 6,
+        "encoding": "utf-8",
+        "separator": ","
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/Pedidos Faturados - Fev_2025.xlsx",
+      "file_name": "Pedidos Faturados - Fev_2025.xlsx",
+      "file_size": 70653,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-04-07T12:17:46.619705",
+      "error": null,
+      "md5_hash": "83ad12a44dbdf6048a46c65ef8c2bb92",
+      "sha256_hash": "bac00b725dc2e8baa33d06b607ea6cfccef04a453438c401b5bce440d3b9bf6a",
+      "specific_checks": null,
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/centro_custo.csv",
+      "file_name": "centro_custo.csv",
+      "file_size": 1724,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-01-13T10:06:32.971328",
+      "error": null,
+      "md5_hash": "3778a90e8403113acbfd20de6e0997db",
+      "sha256_hash": "0d140c25a76062f33bc55a4ae274e4e1a90705f6043cf5d4ff0b44909c8e739c",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 84,
+        "columns_count": 2,
+        "encoding": "utf-8",
+        "separator": ","
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/movimentacao_financeiro.csv",
+      "file_name": "movimentacao_financeiro.csv",
+      "file_size": 6688903,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-01-13T12:24:10.415771",
+      "error": null,
+      "md5_hash": "2659f588e95c50c86a49c76e2a4f9cd6",
+      "sha256_hash": "09e4815ea8ab8c58e01711c685502c9cf0fe98a33699844e6149e07df0fa6242",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 50592,
+        "columns_count": 13,
+        "encoding": "utf-8",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/metas_seletiva.csv",
+      "file_name": "metas_seletiva.csv",
+      "file_size": 1933,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-05-06T08:51:40.263707",
+      "error": null,
+      "md5_hash": "a67014ceb7eed881590fab783f8365a2",
+      "sha256_hash": "8559ffae0d79497bb8822730d221943eeefd7fae58d8c8e77cdcbfa8ae68ace4",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 52,
+        "columns_count": 5,
+        "encoding": "utf-8",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/supplyVendas.csv",
+      "file_name": "supplyVendas.csv",
+      "file_size": 90831,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-04-07T12:38:07.161513",
+      "error": null,
+      "md5_hash": "9ae32d96c6f9b78d13571c942ef92fc8",
+      "sha256_hash": "21791d4c5bedc94b0305deaec2dd721e79ac8ba85385b5141bb921423f78c80f",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 661,
+        "columns_count": 10,
+        "encoding": "utf-8",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../normalizar_tabela_custeio/normalizar_seletiva.ipynb",
+      "file_name": "normalizar_seletiva.ipynb",
+      "file_size": 92287,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-04-25T11:14:00.309087",
+      "error": null,
+      "md5_hash": "89d3802526abba8a773390e1301b9371",
+      "sha256_hash": "f81713a267c4243991aecc7a1d68f6069204a4908580e09e69e866a2e87f6e14",
+      "specific_checks": {
+        "format": "unknown",
+        "message": "Tipo de arquivo não reconhecido"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../analise_erro_integra_soesp/script.ipynb",
+      "file_name": "script.ipynb",
+      "file_size": 1667,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-08-22T12:11:07.219206",
+      "error": null,
+      "md5_hash": "fb9fc2255329c02b5589df2b795d4056",
+      "sha256_hash": "ace801b9735436eda5d3a9872fe0140e9691bf9457f98b28b2141b6657fbb915",
+      "specific_checks": {
+        "format": "unknown",
+        "message": "Tipo de arquivo não reconhecido"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../analise_erro_integra_soesp/fos1004.csv",
+      "file_name": "fos1004.csv",
+      "file_size": 574647,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-08-22T10:25:47.638445",
+      "error": null,
+      "md5_hash": "62923e73952775af98702550765ea9c9",
+      "sha256_hash": "1da2ea15d1b7a7a55b292e5d873eeb833af4869bb7092981c14453ad6feafbc1",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 1804,
+        "columns_count": 46,
+        "encoding": "latin1",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../analise_erro_integra_soesp/fos1004_202522081001.csv",
+      "file_name": "fos1004_202522081001.csv",
+      "file_size": 820750,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-08-22T10:29:43.259362",
+      "error": null,
+      "md5_hash": "add84c64e0cb865b8e01b37a5c68473b",
+      "sha256_hash": "4925bcde150a150e674b4bfc3165b065c4a66797762e314c5739fa09ba3ccaa0",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 2555,
+        "columns_count": 47,
+        "encoding": "utf-8",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../carga_dados_fixos_dash_custos/script_carga_bi_basefixa.sql",
+      "file_name": "script_carga_bi_basefixa.sql",
+      "file_size": 1444,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-10-03T10:27:26.448035",
+      "error": null,
+      "md5_hash": "5023c1f02dc7a8526c82c4ba1d9d9ddd",
+      "sha256_hash": "8e4db831127adc008a94586df5b35e8ebea8b83dafa23b3d4282389128b4d173",
+      "specific_checks": {
+        "format_valid": true,
+        "statements_count": 5,
+        "lines_count": 26
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../carga_dados_fixos_dash_custos/BASE_25_01_07.CSV",
+      "file_name": "BASE_25_01_07.CSV",
+      "file_size": 9699989,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-10-03T10:00:24.173393",
+      "error": null,
+      "md5_hash": "cbac7966531bd385e006cd8288dc9e0c",
+      "sha256_hash": "71614d63c7e686d3534f38d926202bf29e8f0a6edeac8a0ace0d11e6dd1c1a65",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 17581,
+        "columns_count": 36,
+        "encoding": "latin1",
+        "separator": ";"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../carga_dados_fixos_dash_custos/tratamento_dados_bi_basefixa.ipynb",
+      "file_name": "tratamento_dados_bi_basefixa.ipynb",
+      "file_size": 41957,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-10-06T10:54:37.566105",
+      "error": null,
+      "md5_hash": "71061b9b156fcafecb63e1fcfced2129",
+      "sha256_hash": "1c47024e9aaa64274e168dcd4318f808679f30062a4e41616a1abf81e987c5aa",
+      "specific_checks": {
+        "format": "unknown",
+        "message": "Tipo de arquivo não reconhecido"
+      },
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../carga_dados_fixos_dash_custos/[BCBI] BASE 25-01_07.xlsx",
+      "file_name": "[BCBI] BASE 25-01_07.xlsx",
+      "file_size": 3568742,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-10-03T10:00:25.353446",
+      "error": null,
+      "md5_hash": "0abc57882b0ad7e91ded35a8fed4271c",
+      "sha256_hash": "ff87051bcd696a6813d42d140ee4a5ad79efec1039caa9dcc14873492b149d73",
+      "specific_checks": null,
+      "integrity_status": "INTACT"
+    },
+    {
+      "file_path": "../carga_dados_fixos_dash_custos/bi_basefixa_dados_tratados.csv",
+      "file_name": "bi_basefixa_dados_tratados.csv",
+      "file_size": 9960075,
+      "is_accessible": true,
+      "is_readable": true,
+      "permissions": "644",
+      "last_modified": "2025-10-06T08:25:13.287752",
+      "error": null,
+      "md5_hash": "84ec98050414f20a796c8501337c3a20",
+      "sha256_hash": "68147db659c64b248e61a5836065a5ed06864494366a00987818d8e013e232be",
+      "specific_checks": {
+        "format_valid": true,
+        "rows_count": 17581,
+        "columns_count": 36,
+        "encoding": "utf-8",
+        "separator": ","
+      },
+      "integrity_status": "INTACT"
+    }
+  ]
+}

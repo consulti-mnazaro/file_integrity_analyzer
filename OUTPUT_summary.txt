@@ -1,0 +1,11 @@
+=== RELATÓRIO DE INTEGRIDADE DE ARQUIVOS ===
+
+Data da verificação: 2025-10-17T08:58:08.572226
+Total de arquivos verificados: 17
+Arquivos íntegros: 17
+Arquivos corrompidos: 0
+Arquivos inacessíveis: 0
+
+Percentual de arquivos íntegros: 100.0%
+Percentual de arquivos corrompidos: 0.0%
+
